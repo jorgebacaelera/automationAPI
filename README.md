@@ -1,6 +1,6 @@
 ## Pruebas automatizadas de los APIs PET
 
-En el feature Mascotas se detalla los pasos a seguir de los flujo de creacion, actualización, consulta y eliminación del registro. 
+En el feature Mascotas se detalla los pasos a seguir de los flujos de creacion, actualización, consulta y eliminación del registro. 
 Se trabajó con la librería SerenityRest propio de Serenity.
 
 
