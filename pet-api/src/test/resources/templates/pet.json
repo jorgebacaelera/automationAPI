@@ -1,0 +1,18 @@
+{
+   "id": "{{pet_id}}",
+   "category": {
+      "id": "{{category_id}}",
+      "name": "{{category_name}}"
+   },
+   "name": "{{name_pet}}",
+   "photoUrls": [
+      "{{photoUrls}}"
+   ],
+   "tags": [
+      {
+         "id":"{{tags_id}}",
+         "name": "{{tags_id_name}}"
+      }
+   ],
+   "status": "{{status}}"
+}

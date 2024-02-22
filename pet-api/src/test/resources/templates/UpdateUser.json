@@ -1,0 +1,10 @@
+{
+   "id": 77270572,
+   "username": "{{username}}",
+   "firstName": "{{firstName}}",
+   "lastName": "{{lastName}}",
+   "email": "{{email}}",
+   "password": "{{password}}",
+   "phone": "{{phone}}",
+   "userStatus": 0
+}
